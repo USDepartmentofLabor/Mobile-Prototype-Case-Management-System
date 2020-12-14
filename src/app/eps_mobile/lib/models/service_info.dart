@@ -12,12 +12,8 @@ class ServiceInfo {
     // LOCAL
     this.useHttps = false;
 
-    // DEV API
-    //this.url = 'eps-dev-api.dbmspilot.org';
-    //this.useHttps = true;
-
-    // DEMO API
-    //this.url = 'eps-demo-api.dbmspilot.org';
+    // YOUR API
+    //this.url = 'example.com';
     //this.useHttps = true;
   }
 }
